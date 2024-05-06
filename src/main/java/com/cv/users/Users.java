@@ -1,2 +1,4 @@
-package com.cv.users;public class Users {
+package com.cv.users;
+
+public class Users {
 }
